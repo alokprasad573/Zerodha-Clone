@@ -15,9 +15,9 @@ export default function HomePage() {
             <Navbar />
             <Hero />
             <Awards />
-            <Education />
             <Pricing />
             <Stats />
+            <Education />
             <OpenAccount />
             <Footer />
         </>
