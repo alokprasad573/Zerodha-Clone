@@ -18,7 +18,7 @@ export default function Pricing() {
                         </div>
                         <div className="col-4 border p-3">
                             <h1 className="text-warning"><i className="fa-solid fa-indian-rupee-sign fa-2xs"></i>0</h1>
-                            <p className="text-secondary">Free equity delhivery <br/> and direct mutual funds</p>
+                            <p className="text-secondary">Free equity delivery <br/> and direct mutual funds</p>
                         </div>
                         <div className="col-4 border p-3">
                             <h1 className="text-warning"><i className="fa-solid fa-indian-rupee-sign fa-2xs"></i>20</h1>

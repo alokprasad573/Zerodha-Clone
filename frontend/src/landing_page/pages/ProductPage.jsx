@@ -4,7 +4,7 @@ import LeftSection from '../components/Products/LeftSection'
 import RightSection from '../components/Products/RightSection'
 import Universe from '../components/Products/Universe'
 
-export default function ProductsPage() {
+export default function ProductPage() {
     return (
         <>
             <Hero />

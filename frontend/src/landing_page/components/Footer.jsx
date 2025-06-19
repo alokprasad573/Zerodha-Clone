@@ -2,10 +2,10 @@ import React from 'react'
 
 export default function Footer() {
     return (
-        <div className="bg-light border-top mt-5 " style={{backgroundColor: "grey", padding:"50px 200px 0 200px"}}>
+        <div className="bg-light border-top mt-5 " style={{backgroundColor: "grey", padding:"25px 150px 0 150px"}}>
             <div className="row text-start ">
                 <div className="col-4">
-                    <img src="media/images/logo.svg" alt="logo" style={{width: "50%", marginBottom: "10px"}}/>
+                    <img src="/media/images/logo.svg" alt="logo" style={{width: "50%", marginBottom: "5px"}}/>
                     <p className="text-secondary">
                         &#x00A9;2010 - 2025, Zerodha Broking Ltd. <br/>
                         All rights reserved.
@@ -41,39 +41,39 @@ export default function Footer() {
                 <div className="col">
                     <h5>Support</h5>
                     <br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Contact us</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Support portal</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>How to file a complaint?</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Status of your complaints</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Bulletin</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Circular</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Z-Connect blog</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Downloads</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Contact us</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Support portal</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>How to file a complaint?</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Status of your complaints</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Bulletin</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Circular</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Z-Connect blog</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Downloads</a><br/><br/>
                 </div>
                 <div className="col">
                     <h5>Company</h5>
                     <br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>About</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Philosophy</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Press & media</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Careers</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Zerodha Cares (CSR)</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Zerodha.tech</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Open source</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>About</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Philosophy</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Press & media</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Careers</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Zerodha Cares (CSR)</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Zerodha.tech</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Open source</a><br/><br/>
                 </div>
                 <div className="col">
                     <h5>Quick Links</h5>
                     <br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Upcoming IPOs</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Brokerage charges</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Market holidays</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Economic calendar</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Calculators</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Markets</a><br/><br/>
-                    <a href=""style={{textDecoration:"none", color: "#6c757d"}}>Sectors</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Upcoming IPOs</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Brokerage charges</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Market holidays</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Economic calendar</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Calculators</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Markets</a><br/><br/>
+                    <a href="" style={{textDecoration:"none", color: "#6c757d"}}>Sectors</a><br/><br/>
                 </div>
             </div>
-            <div className="mt-5"  style={{color:"#6c757d", fontSize:"0.8rem"}}>
+            <div className="mt-3"  style={{color:"#6c757d", fontSize:"0.8rem"}}>
                 <p>
                     Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL: Depository services
                     through Zerodha Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading through Zerodha Commodities Pvt. Ltd.
@@ -108,7 +108,7 @@ export default function Footer() {
                     account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non
                     allotment the funds will remain in your bank account. As a business we don't give stock tips, and have not authorized anyone
                     to trade on behalf of others. If you find anyone claiming to be part of Zerodha and offering such services, please
-                    <a href="#" style={{textDecoration:"none"}}>create a ticket here.</a>
+                    <a href="#" style={{textDecoration:"none"}}> create a ticket here.</a>
                 </p>
             </div>
         </div>

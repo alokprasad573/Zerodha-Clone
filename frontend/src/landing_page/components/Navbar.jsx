@@ -1,11 +1,13 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
+
 export default function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg sticky-top border-bottom navbar-light bg-light" style={{backgroundColor:"grey"}}>
             <div className="container">
-                <a className="navbar-brand p-3" href="#">
+                <Link className="navbar-brand p-2" to="/">
                     <img src="media/images/logo.svg" alt="logo" style={{width:"40%"}}/>
-                </a>
+                </Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -14,19 +16,19 @@ export default function Navbar() {
                 <div className="collapse navbar-collapse " id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto">
                         <li className="nav-item">
-                            <a className="nav-link " href="#">Signup</a>
+                            <Link className="nav-link " to="/signup">Signup</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">About</a>
+                            <Link className="nav-link" to="/about">About</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Product</a>
+                            <Link className="nav-link" to="/product">Product</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Pricing</a>
+                            <Link className="nav-link" to="/pricing">Pricing</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Support</a>
+                            <Link className="nav-link" to="/support">Support</Link>
                         </li>
                     </ul>
                 </div>
